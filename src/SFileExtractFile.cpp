@@ -9,7 +9,7 @@
 /*****************************************************************************/
 
 #define __STORMLIB_SELF__
-#include "StormLib.h"
+#include "StormLib/StormLib.h"
 #include "StormCommon.h"
 
 bool WINAPI SFileExtractFile(HANDLE hMpq, const char * szToExtract, const TCHAR * szExtracted, DWORD dwSearchScope)

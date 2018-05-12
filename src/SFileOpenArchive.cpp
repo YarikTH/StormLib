@@ -14,7 +14,7 @@
 /*****************************************************************************/
 
 #define __STORMLIB_SELF__
-#include "StormLib.h"
+#include "StormLib/StormLib.h"
 #include "StormCommon.h"
 
 #define HEADER_SEARCH_BUFFER_SIZE   0x1000

@@ -12,7 +12,7 @@
 /*****************************************************************************/
 
 #define __STORMLIB_SELF__
-#include "StormLib.h"
+#include "StormLib/StormLib.h"
 #include "StormCommon.h"
 
 char StormLibCopyright[] = "StormLib v " STORMLIB_VERSION_STRING " Copyright Ladislav Zezula 1998-2014";
